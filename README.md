@@ -144,9 +144,29 @@ The project follows an end-to-end data analytics workflow.
 - Evaluated model performance using MAE, RMSE and R².
 
 **Step 6: Power BI Dashboard**
-- Developed an interactive dashboard.
-- Created KPI cards and property comparison visuals.
-- Presented important market insights in a single view.
+## 📊 Power BI Dashboard
+
+The interactive Power BI dashboard provides an overview of residential property sales and pricing trends through KPI cards and visualizations.
+
+### Dashboard Preview
+
+![House Price Analysis Dashboard](PowerBI/House_Price_Dashboard.png)
+
+### Key Performance Indicators (KPIs)
+
+- **Average House Price:** $540,182
+- **Total Properties:** 21,613
+- **Average Living Area:** 2,080 sq. ft.
+- **Median House Price:** $450,000
+
+### Dashboard Visualizations
+
+- Average House Price by Property Grade
+- Average House Price by Number of Bedrooms
+- Average House Price by Property Condition
+- Average House Price by Number of Floors
+
+**Dashboard File:** [View Power BI Dashboard (.pbix)](PowerBI/House_Price_Dashboard.pbix)
 
 ---
 
