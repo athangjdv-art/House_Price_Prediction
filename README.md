@@ -143,7 +143,6 @@ The project follows an end-to-end data analytics workflow.
 - Developed a Linear Regression model.
 - Evaluated model performance using MAE, RMSE and R².
 
-**Step 6: Power BI Dashboard**
 ## 📊 Power BI Dashboard
 
 The interactive Power BI dashboard provides an overview of residential property sales and pricing trends through KPI cards and visualizations.
